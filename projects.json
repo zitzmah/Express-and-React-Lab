@@ -1,0 +1,15 @@
+[
+    {
+      "name": "project1",
+      "live": "https://zitzmah.github.io/Project-1/",
+      "git": "https://github.com/zitzmah/Project-1?tab=readme-ov-file",
+      "image": "https://i.imgur.com/WxQMA6K_d.webp?maxwidth=760&fidelity=grand"
+    },
+    {
+      "name": "project2",
+      "live": "https://app.netlify.app/whatever",
+      "git": "https://github.com/zitzmah/project2",
+      "image": "https://i.imgur.com/RdXwTBy_d.webp?maxwidth=760&fidelity=grand"
+    }
+  ]
+  
